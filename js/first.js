@@ -1,2 +1,4 @@
 // JavaScript Document
-/* new function {}; */
+/* new function {}; 
+	edits to the head funtion */
+/* another new function {} */
